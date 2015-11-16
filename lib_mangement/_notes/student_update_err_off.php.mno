@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsStudent" value="name:std_id;datatype:int,name:std_name;datatype:string,name:std_dob;datatype:date,name:std_prog;datatype:string,name:std_batch;datatype:string,name:std_mob;datatype:string,name:std_mail;datatype:string,name:std_pass;datatype:string,name:book_browed;datatype:string" />
+</info>

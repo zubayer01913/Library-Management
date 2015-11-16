@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOfficials" value="name:off_id;datatype:int,name:off_name;datatype:string,name:off_dob;datatype:date,name:off_desig;datatype:string,name:off_mob;datatype:string,name:off_mail;datatype:string,name:off_pass;datatype:string" />
+</info>

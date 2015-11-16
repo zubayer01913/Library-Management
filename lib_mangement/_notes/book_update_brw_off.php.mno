@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBook" value="name:ref_number;datatype:string,name:book_name;datatype:string,name:book_writers;datatype:string,name:book_edition;datatype:string,name:book_isbn;datatype:string,name:book_avail;datatype:int,name:ebook_link;datatype:string,name:browed_to;datatype:string" />
+</info>
